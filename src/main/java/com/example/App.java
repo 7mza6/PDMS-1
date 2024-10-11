@@ -9,9 +9,8 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 
 /**
- * JavaFX App
- YUHTYYH
- lkvjxclkjvlkjxclkjvlkjxclkjvlkjxlcjv
+ * 
+ HAMZA
  */
 public class App extends Application {
     
