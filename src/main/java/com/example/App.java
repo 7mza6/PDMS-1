@@ -11,7 +11,6 @@ import javafx.stage.Stage;
 /**
  * JavaFX AppKMKDSKFKKSD;FK;
  * SDmnnmnsdm,n,sndf
- * FGFGF
  */
 public class App extends Application {
 
